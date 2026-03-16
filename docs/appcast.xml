@@ -5,5 +5,18 @@
     <link>https://wuest-software-labs.github.io/lookout-releases/appcast.xml</link>
     <description>Lookout app updates</description>
     <language>en</language>
+      <item>
+        <title>Version 1.5</title>
+        <pubDate>Mon, 16 Mar 2026 13:43:51 -0300</pubDate>
+        <sparkle:version>1.5</sparkle:version>
+        <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <enclosure
+          url="https://github.com/Wuest-Software-Labs/lookout-releases/releases/download/v1.5/Lookout-1.5.dmg"
+          type="application/octet-stream"
+          sparkle:edSignature="6IfnHjtUcEEaVbBr5REbi/FZi5c/QHiwr1qF/P1r4ydRk0MEYleDLcTiAurLOqr6n1di62I2ZAmxT7xclwauAA=="
+          length="8325516"
+        />
+      </item>
   </channel>
 </rss>

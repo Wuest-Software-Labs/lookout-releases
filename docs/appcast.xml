@@ -31,5 +31,18 @@
           length="8325550"
         />
       </item>
+      <item>
+        <title>Version 1.5.3</title>
+        <pubDate>Mon, 16 Mar 2026 13:57:34 -0300</pubDate>
+        <sparkle:version>1.5.3</sparkle:version>
+        <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <enclosure
+          url="https://github.com/Wuest-Software-Labs/lookout-releases/releases/download/v1.5.3/Lookout-1.5.3.dmg"
+          type="application/octet-stream"
+          sparkle:edSignature="ad6EO5hndyUHzDnFgF1i8DcYbxgv8wL0rgnjkFw+l6K4prA+3IgU1Q9D3ij0ar3qGQgvQes9+XqIVx/8WTMcAQ=="
+          length="8328236"
+        />
+      </item>
   </channel>
 </rss>

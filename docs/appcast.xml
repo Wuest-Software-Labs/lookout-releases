@@ -6,19 +6,6 @@
     <description>Lookout app updates</description>
     <language>en</language>
       <item>
-        <title>Version 1.6.0.4</title>
-        <pubDate>Tue, 17 Mar 2026 08:10:25 -0300</pubDate>
-        <sparkle:version>1.6.0.4</sparkle:version>
-        <sparkle:shortVersionString>1.6.0.4</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        <enclosure
-          url="https://github.com/Wuest-Software-Labs/lookout-releases/releases/download/v1.6.0.4/Lookout-1.6.0.4.dmg"
-          type="application/octet-stream"
-          sparkle:edSignature="4eF/G1NHA/4gYKD5A+ODWIfMUtbO/wiOF62DU+nQJBmarNYM57G3htMk+EAN4fxy4K1Jt52bA828JGSDT5dVAg=="
-          length="8359520"
-        />
-      </item>
-      <item>
         <title>Version 1.6.0.5</title>
         <pubDate>Tue, 17 Mar 2026 08:34:06 -0300</pubDate>
         <sparkle:version>1.6.0.5</sparkle:version>
@@ -42,6 +29,19 @@
           type="application/octet-stream"
           sparkle:edSignature="mFbANBGLf7xzamwvf/q4YL911OKRpIAL4g5R5AFNh+9ZdmWUTGui8cMVRWFGjTRBAsfaXjhRorB8noQ5qVcTDw=="
           length="8360125"
+        />
+      </item>
+      <item>
+        <title>Version 1.6.0.7</title>
+        <pubDate>Tue, 17 Mar 2026 13:57:51 -0300</pubDate>
+        <sparkle:version>1.6.0.7</sparkle:version>
+        <sparkle:shortVersionString>1.6.0.7</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <enclosure
+          url="https://github.com/Wuest-Software-Labs/lookout-releases/releases/download/v1.6.0.7/Lookout-1.6.0.7.dmg"
+          type="application/octet-stream"
+          sparkle:edSignature="eElzJIkYIqLKRN38AJL36nosgW6880tw5F3N6vn2kqo+qQpuDqNQFhrMiHJz1O3AGu3uXEbfxcmmnSmvyFU1AQ=="
+          length="8360154"
         />
       </item>
   </channel>
